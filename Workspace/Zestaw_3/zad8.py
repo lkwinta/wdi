@@ -1,0 +1,2 @@
+def skacz(t, N):
+    
