@@ -1,4 +1,3 @@
-import numpy as np
 
 def suma_szachow(T, N : int) -> int:
     licznik = 0
